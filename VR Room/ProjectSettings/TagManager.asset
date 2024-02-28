@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Fire
   - Floor
+  - Box
+  - Hands
   layers:
   - Default
   - TransparentFX
